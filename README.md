@@ -1,6 +1,6 @@
-- 👋  -  Hi, I’m @marvel-eb
+- 👋  -  Hi, I’m @Ephrem
 - 👀  -  I’m interested in technology especially designing websites, graphics and  other goodies.
-- 🌱  - I’m currently learning Web Development Vertually.
+- 🌱  - I’m currently building Web Development projects to expand my knowledge.
 - 💞️  -  I’m looking to collaborate on any project.
 - 📫  -  Reach me via  Email!.
 
